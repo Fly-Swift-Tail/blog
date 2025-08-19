@@ -26,13 +26,21 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.flyswifttail.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: adamqureshi
-github_username: Fly-Swift-Tail
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+minima:
+  hide_site_feed_link: false
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/Fly-Swift-Tail"
+    - title: X
+      icon: x-twitter
+      url: "https://x.com/FlySwiftTail"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
