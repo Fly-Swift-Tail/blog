@@ -29,6 +29,8 @@ url: "https://blog.flyswifttail.com" # the base hostname & protocol for your sit
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 minima:
   hide_site_feed_link: false

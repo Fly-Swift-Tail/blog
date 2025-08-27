@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh repo view:*)",
+      "Bash(gh api:*)",
+      "Bash(gh run list:*)",
+      "Bash(mise run build:*)"
+    ],
+    "deny": []
+  }
+}
