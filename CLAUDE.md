@@ -9,6 +9,7 @@ This is a Jekyll-based blog hosted at blog.flyswifttail.com with GitHub Pages in
 - **Package Manager**: Bun
 - **Ruby Version Manager**: mise
 - **Formatting**: Prettier with Ruby, Liquid, ERB, and Tailwind CSS plugins
+- **Linting**: markdownlint for Markdown files
 
 ## Key Files
 - `_config.yml` - Main Jekyll configuration
@@ -16,6 +17,8 @@ This is a Jekyll-based blog hosted at blog.flyswifttail.com with GitHub Pages in
 - `package.json` - Node dependencies for Prettier plugins
 - `mise.toml` - Development environment configuration and task runner
 - `CNAME` - GitHub Pages custom domain configuration
+- `.markdownlint.json` - Markdownlint configuration
+- `.vscode/settings.json` - VSCode settings for format on save
 
 ## Jekyll Plugins
 - jekyll-seo-tag - SEO optimization
@@ -28,6 +31,11 @@ Run these tasks using `mise run <task>`:
 - `dev` - Start Jekyll dev server with live reload
 - `build` - Build site for production
 - `lazygit` - Launch lazygit for version control
+
+## Linting and Formatting
+- **Markdown**: markdownlint-cli installed via bun (`bun run markdownlint "**/*.md"`)
+- **VSCode**: Configured for format on save with markdownlint extension
+- **Configuration**: Custom rules in `.markdownlint.json` allow HTML tags and disable first line heading requirement
 
 ## Project Structure
 

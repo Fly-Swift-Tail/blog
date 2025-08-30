@@ -88,6 +88,7 @@ Selecting the ideal jet card program requires honest assessment of your travel p
 ### 2. Evaluate Program Terms and Conditions
 
 Beyond headline hourly rates, scrutinize:
+
 - **Peak Day Surcharges**: Can add 20-40% to base rates
 - **Minimum Flight Time**: Daily or segment minimums impact short flights
 - **Taxi Time**: Included or billed separately?
@@ -105,6 +106,7 @@ Beyond headline hourly rates, scrutinize:
 ### 4. Assess Safety Standards and Operational Excellence
 
 Verify providers maintain:
+
 - **ARGUS or Wyvern Ratings**: Industry-standard safety audits
 - **Pilot Experience Requirements**: Minimum hours and type ratings
 - **Aircraft Age Limits**: Many programs cap aircraft at 10-15 years
@@ -118,12 +120,14 @@ Understanding how jet cards compare to alternatives helps validate your investme
 ### Jet Cards vs. On-Demand Charter
 
 **Advantages of Jet Cards:**
+
 - Predictable pricing without negotiation
 - Guaranteed availability
 - Consistent service standards
 - Simplified booking and billing
 
 **When Charter Makes Sense:**
+
 - Infrequent flyers (under 10 hours annually)
 - One-way international flights
 - Unique aircraft requirements
@@ -132,12 +136,14 @@ Understanding how jet cards compare to alternatives helps validate your investme
 ### Jet Cards vs. Fractional Ownership
 
 **Jet Cards Win When:**
+
 - Flying 10-50 hours annually
 - Requiring multiple aircraft types
 - Avoiding capital investment and depreciation
 - Maintaining maximum flexibility
 
 **Fractional Ownership Advantages:**
+
 - Flying 50+ hours annually
 - Specific aircraft preferences
 - Potential tax benefits
@@ -146,6 +152,7 @@ Understanding how jet cards compare to alternatives helps validate your investme
 ### Jet Cards vs. Whole Aircraft Ownership
 
 For most flyers under 200 hours annually, jet cards provide superior economics and flexibility compared to whole aircraft ownership, eliminating:
+
 - Capital investment and depreciation
 - Crew management and training
 - Maintenance and hangar costs
@@ -167,16 +174,19 @@ Environmental consciousness drives carbon offset programs and sustainable aviati
 ### Market Leaders by Category
 
 **Premium Full-Service Programs:**
+
 - **NetJets**: The industry pioneer with the largest owned fleet
 - **Flexjet**: Known for young fleet and Red Label service
 - **Sentient Jet**: Excellent safety record and straightforward terms
 
 **Value-Focused Options:**
+
 - **Wheels Up**: Competitive pricing with membership benefits
 - **XO**: Dynamic pricing model with empty leg integration
 - **JetSuite**: Strong West Coast presence and competitive rates
 
 **Specialized Niches:**
+
 - **Nicholas Air**: Southeast regional focus with excellent service
 - **Airshare**: Midwest-based with days-based programs
 - **FlyExclusive**: Publicly traded with transparent operations

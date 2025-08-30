@@ -4,7 +4,9 @@
       "Bash(gh repo view:*)",
       "Bash(gh api:*)",
       "Bash(gh run list:*)",
-      "Bash(mise run build:*)"
+      "Bash(mise run build:*)",
+      "Bash(bun add:*)",
+      "Bash(mkdir:*)"
     ],
     "deny": []
   }
