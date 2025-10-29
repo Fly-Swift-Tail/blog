@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Most Popular Empty Leg Corridors in the USA: Where to Find the Best Deals"
-date: 2025-10-29 10:00:00 -0500
+date: 2025-10-28 10:00:00 -0500
 categories: empty-legs travel-tips
 author: Istvan Hoka
 ---
