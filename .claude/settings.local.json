@@ -6,7 +6,12 @@
       "Bash(gh run list:*)",
       "Bash(mise run build:*)",
       "Bash(bun add:*)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "Bash(bundle exec:*)",
+      "Bash(ls:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ],
     "deny": []
   }
