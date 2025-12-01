@@ -20,6 +20,7 @@
 
 title: Fly Swift Tail Blog
 email: contact@flyswifttail.com
+address: "1890 Wisteria Cir Bellport, NY 11713"
 description: "© Fly Swift Tail. Not a direct air carrier or broker. We connect you with certified providers."
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.flyswifttail.com" # the base hostname & protocol for your site, e.g. http://example.com
