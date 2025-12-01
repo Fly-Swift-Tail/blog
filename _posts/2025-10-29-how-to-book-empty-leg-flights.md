@@ -6,6 +6,7 @@ categories: [private-aviation, empty-legs]
 tags: [empty-leg-flights, private-jet-booking, charter-savings, flight-booking-guide]
 excerpt: "Master the art of booking empty leg flights with this comprehensive guide. Learn where to find deals, how to evaluate options, and the secrets to securing flights that save 50-75% off standard charter rates."
 author: SwiftTail Team
+image: /assets/images/placeholder-jet.svg
 seo_title: "How to Book Empty Leg Flights - Complete Guide to Private Jet Deals"
 seo_description: "Learn how to book empty leg flights step-by-step. Find the best deals, understand pricing, and discover insider tips for securing private jet flights at 50-75% off regular rates."
 seo_keywords: "how to book empty leg flights, private jet booking guide, empty leg flight deals, charter flight booking, private aviation savings, repositioning flights"
