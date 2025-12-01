@@ -26,24 +26,16 @@ url: "https://blog.flyswifttail.com" # the base hostname & protocol for your sit
 
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 
-minima:
-  hide_site_feed_link: false
-  social_links:
-    - title: Fly Swift Tail
-      icon: link
-      url: "https://flyswifttail.com"
-    - title: GitHub
-      icon: github
-      url: "https://github.com/Fly-Swift-Tail"
-    - title: X
-      icon: x-twitter
-      url: "https://x.com/FlySwiftTail"
+# Social links
+social_links:
+  website: "https://flyswifttail.com"
+  github: "https://github.com/Fly-Swift-Tail"
+  twitter: "https://x.com/FlySwiftTail"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -5,6 +5,8 @@ date: 2025-01-30
 categories: [private-aviation, jet-cards]
 tags: [jet cards, private jets, business aviation, luxury travel, fractional ownership]
 excerpt: "Discover how jet card memberships revolutionize private aviation access with guaranteed availability, fixed pricing, and unmatched flexibility. Learn everything you need to know about choosing the right program for your travel needs."
+author: SwiftTail Team
+image: /assets/images/placeholder-jet.svg
 ---
 
 In the dynamic world of private aviation, jet card memberships have emerged as the sweet spot between on-demand charter and fractional ownership. For discerning travelers who value their time and demand consistency in their private flight experience, jet cards offer a compelling solution that combines flexibility with predictability.
