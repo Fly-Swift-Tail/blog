@@ -12,7 +12,10 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(git push:*)",
-      "Bash(bun run:*)"
+      "Bash(bun run:*)",
+      "Bash(find:*)",
+      "Bash(cat:*)",
+      "Bash(grep:*)"
     ],
     "deny": []
   }
