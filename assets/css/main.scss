@@ -71,47 +71,49 @@ img {
   height: auto;
 }
 
-// Mobile menu checkbox styling
-.nav-trigger {
+// Mobile menu toggle button
+.menu-toggle {
   display: none;
+  background: none;
+  border: none;
+  padding: 0.5rem;
+  cursor: pointer;
+
+  .menu-icon {
+    display: block;
+
+    svg {
+      fill: $color-white;
+    }
+  }
 }
 
+// Mobile menu styles
 @media screen and (max-width: 600px) {
+  .menu-toggle {
+    display: block;
+  }
+
   .site-nav {
-    position: absolute;
-    top: 100%;
-    right: 2rem;
-    background-color: $color-navy;
-    border: 1px solid $color-navy-light;
-    border-radius: 8px;
-    text-align: left;
+    position: relative;
 
     .trigger {
-      clear: both;
       display: none;
+      position: absolute;
+      top: 100%;
+      right: 0;
+      background-color: $color-navy;
+      border: 1px solid $color-navy-light;
+      border-radius: 8px;
+      padding: 1rem;
+      min-width: 180px;
+      margin-top: 0.5rem;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+
+      &.is-open {
+        display: block;
+      }
     }
-
-    label[for="nav-trigger"] {
-      display: block;
-      cursor: pointer;
-    }
-  }
-
-  .nav-trigger:checked ~ .trigger {
-    display: block;
-    padding: 1rem;
-  }
-
-  .menu-icon {
-    display: block;
-    padding: 0.5rem;
-    cursor: pointer;
-  }
-}
-
-@media screen and (min-width: 601px) {
-  .menu-icon {
-    display: none;
   }
 }
 
@@ -174,31 +176,16 @@ img {
     }
   }
 
-  // Mobile menu
+  // Mobile menu link styles
   @media screen and (max-width: 600px) {
-    .site-nav {
-      background-color: $color-navy;
-      border: 1px solid $color-navy-light;
+    .site-nav .trigger .page-link {
+      display: block;
+      margin: 0;
+      padding: 0.75rem 0;
+      border-bottom: 1px solid $color-navy-light;
 
-      .menu-icon > svg {
-        fill: $color-white;
-      }
-
-      .trigger {
-        display: block;
-        background: $color-navy;
-        padding: 1rem;
-      }
-
-      .page-link {
-        display: block;
-        margin: 0;
-        padding: 0.75rem 0;
-        border-bottom: 1px solid $color-navy-light;
-
-        &:last-child {
-          border-bottom: none;
-        }
+      &:last-child {
+        border-bottom: none;
       }
     }
   }
