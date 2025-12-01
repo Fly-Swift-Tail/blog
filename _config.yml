@@ -35,6 +35,9 @@ plugins:
 minima:
   hide_site_feed_link: false
   social_links:
+    - title: Fly Swift Tail
+      icon: link
+      url: "https://flyswifttail.com"
     - title: GitHub
       icon: github
       url: "https://github.com/Fly-Swift-Tail"
