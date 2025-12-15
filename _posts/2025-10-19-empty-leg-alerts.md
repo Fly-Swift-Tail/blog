@@ -5,7 +5,7 @@ date: 2025-10-19
 categories: [private-aviation, empty-legs]
 tags: [empty-leg-flights, private-jet-deals, charter-savings, flight-alerts]
 excerpt: "Get instant notifications when empty leg flights match your route. Save 50-75% on private jet charters by monitoring the top operators automatically. Never miss another deal."
-author: SwiftTail Team
+author: Istvan Hoka
 image: /assets/images/placeholder-jet.svg
 seo_title: "Empty Leg Flight Alerts - Save Up to 75% on Private Jet Charters"
 seo_description: "Monitor empty leg flights from 10+ major operators automatically. Get real-time alerts when repositioning flights match your route and save 50-75% on private aviation."
