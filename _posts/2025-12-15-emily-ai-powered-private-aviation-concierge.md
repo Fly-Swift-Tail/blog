@@ -12,11 +12,6 @@ seo_description: "Meet EMILY, the AI-powered private aviation concierge that mak
 seo_keywords: "AI private jet booking, EMILY AI assistant, private aviation concierge, conversational jet booking, intelligent flight search, AI aviation technology, empty leg finder, private jet AI"
 ---
 
-![EMILY AI Assistant Screenshot](/assets/images/emily-screenshot.png)
-*EMILY AI-powered private aviation concierge helps you find the perfect private flight through natural conversation.*
-
----
-
 **Private jet booking** has traditionally been a complex, time-consuming process. Phone calls to multiple brokers, lengthy forms, back-and-forth emails about availability and pricing. Whether you're looking for [empty leg flights](https://blog.flyswifttail.com/2025/10/29/how-to-book-empty-leg-flights.html) or full charter services, we knew there had to be a better way.
 
 Today, we're excited to introduce **EMILY** (Enhanced Matching Intelligence for Luxury Yields) — an **AI-powered private aviation concierge** that revolutionizes how you search for and book private jets through intelligent conversation.
@@ -30,15 +25,19 @@ No more filling out complex forms. No more waiting on hold for brokers. Just tel
 ## What EMILY's AI Private Jet Assistant Can Do
 
 ### Understand Your Trip Through Natural Language
+
 Describe your **private aviation** plans in plain English. EMILY's **intelligent flight search** extracts the details — departure city, destination, dates, passenger count — without you clicking a single dropdown or filling out forms.
 
 ### Instant Private Jet Pricing Estimates
+
 Before you commit, EMILY provides **real-time pricing estimates** based on your route and preferences. Know what to expect before speaking with a broker, making **private jet booking** transparent and efficient.
 
 ### AI-Powered Empty Leg Discovery
+
 Looking for **private jet deals**? EMILY automatically searches our extensive [empty leg flight database](https://blog.flyswifttail.com/2025/10/19/empty-leg-alerts.html), potentially saving you thousands on repositioning flights. Our AI can even track [real-time empty leg opportunities](https://blog.flyswifttail.com/2025/12/01/introducing-flight-radar-real-time-empty-leg-tracking.html).
 
 ### Seamless Expert Connection
+
 When you're ready to book, EMILY connects you with one of our **private aviation experts** who has full context of your conversation. No need to repeat yourself — our AI ensures smooth handoffs for personalized service.
 
 ## Built With Privacy in Mind
